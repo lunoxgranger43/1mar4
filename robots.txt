@@ -1,0 +1,25 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://www.grundy.io/superjp.html/sitemap.xml
+Sitemap: https://www.grundy.io/gilajp.html/sitemap.xml
+Sitemap: https://www.grundy.io/gojekpot.html/sitemap.xml
+Sitemap: https://www.grundy.io/winstrike69.html/sitemap.xml
+Sitemap: https://www.grundy.io/jagoan86.html/sitemap.xml
+Sitemap: https://www.grundy.io/kaptenjackpot.html/sitemap.xml
+Sitemap: https://www.grundy.io/boosterjp.html/sitemap.xml
+Sitemap: https://www.grundy.io/kerajaanslot.html/sitemap.xml
+Sitemap: https://www.grundy.io/pakong86.html/sitemap.xml
+Sitemap: https://www.grundy.io/viral88.html/sitemap.xml
+Sitemap: https://www.grundy.io/clan4d.html/sitemap.xml
+Sitemap: https://www.grundy.io/dinamit4d.html/sitemap.xml
+Sitemap: https://www.grundy.io/elang212.html/sitemap.xml
+Sitemap: https://www.grundy.io/gori77.html/sitemap.xml
+Sitemap: https://www.grundy.io/viral4d.html/sitemap.xml
+Sitemap: https://www.grundy.io/playground88.html/sitemap.xml
